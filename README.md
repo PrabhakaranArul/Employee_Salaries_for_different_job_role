@@ -1,0 +1,2 @@
+# Employee_Salaries_for_different_job_role
+Employee_Salaries_for_different_job_roles_EDA_Visualization_and_Model_Building Exploring the dataset with following techniques i)Data cleaning ii)Data preprocessing iii)Model building iv)Predicting v)Evaluation
